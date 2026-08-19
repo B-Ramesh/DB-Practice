@@ -1,3 +1,4 @@
 Name: Ramesh
 Role: Assistant Professor
 Learning: Oracle SQL and PL/SQL
+Hello, i'm trying learn PLSQL developer role
