@@ -6,3 +6,5 @@ create table Student_1(
     stu_age number(2)
 );
 select * from emp;
+
+select * from dual;
