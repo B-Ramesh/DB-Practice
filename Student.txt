@@ -1,0 +1,3 @@
+Name: Ramesh
+Role: Assistant Professor
+Learning: Oracle SQL and PL/SQL
